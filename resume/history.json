@@ -1,0 +1,105 @@
+[
+  {
+    "company": "Taiwan Rakuten Ichiba Inc.",
+    "logo": "https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png",
+    "start_month": "Jul 2020",
+    "end_month": null,
+    "job_title": "Senior Software Engineer",
+    "summary": "* Maintained and developed new version of Taiwan Rakuten Ichiba Android application\n* Maintained and developed new version of Rakuma Taiwan Android application\n* Learned Kotlin and Coroutine, and convert codes from Java to Kotin\n* Apply MVVM when refactoring or developing new features\n* Setup and write unit tests with Robolectric, Mockito, Mockk and Google Trust\n* Migrate Android Support libraries to AndroidX\n* Use Retrofit, Gson and Moshi to call APIs",
+    "projects": [
+      {
+        "name": "Taiwan Rakuten Ichiba",
+        "link": "https://play.google.com/store/apps/details?id=com.rakuten.shopping",
+        "description": "A B2B shopping application"
+      },
+      {
+        "name": "Taiwan Rakuma",
+        "link": "https://play.google.com/store/apps/details?id=com.rakuten.rakuma",
+        "description": "A C2C flea market application"
+      }
+    ]
+  },
+  {
+    "company": "Nuwa Robotics",
+    "logo": "https://www.nuwarobotics.com/wp-content/uploads/2020/11/NuwaOfficialWeb_Logo_300.png",
+    "start_month": "Nov 2019",
+    "end_month": "Jul 2020",
+    "job_title": "Android Software Engineer",
+    "summary": "Developed and maintained Android application and framework for Kebbi robot.",
+    "projects": [
+      {
+        "name": "Nuwa Store, Robot Theater and Nuwa Player",
+        "description": "Download and play medias on Kebbi robot"
+      },
+      {
+        "name": "Micro Coding",
+        "description": "A Blockly based programming app for kids to learn coding for Kebbi robot."
+      },
+      {
+        "name": "Nuwa Backup & Restore",
+        "description": "Implement a Backup Transport to backup data to Nuwa Server"
+      }
+    ]
+  },
+  {
+    "company": "Google LLC",
+    "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+    "start_month": "Jan 2018",
+    "end_month": "Oct 2019",
+    "job_title": "Software Engineer(L3)",
+    "summary": "Developed and maintained Android applications for Pixel phones from Pixel 3 to Pixel 4.",
+    "projects": [
+      {
+        "name": "Pixel Tips",
+        "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.tips",
+        "description": "A built-in App to guide the user new features on Pixel phones"
+      },
+      {
+        "name": "Pixel Recorder",
+        "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.recorder",
+        "description": "A built-in App to record recordings on Pixel phones"
+      }
+    ]
+  },
+  {
+    "company": "HTC",
+    "logo": "https://www.htc.com/assets-desktop/images/csr/tw/htc_csr_logo.png",
+    "start_month": "Jun 2015",
+    "end_month": "Jan 2018",
+    "job_title": "Sr. Engineer",
+    "summary": "Developed and maintained Android applications for HTC Phones from Sense 7 to Sense 10. Worked closely with other departments to construct a complete and well-integrated HTC Sense.",
+    "projects": [
+      {
+        "name": "Edge Launcher",
+        "link": "https://play.google.com/store/apps/details?id=com.htc.quicklauncher"
+      },
+      {
+        "name": "HTC Themes of Sense 9 to 10"
+      },
+      {
+        "name": "Home screen / Launcher development on Android (HTC Sense home screen)"
+      },
+      {
+        "name": "Blinkfeed of Sense 7 to 8"
+      }
+    ]
+  },
+  {
+    "company": "LeadThink",
+    "start_month": "Jul 2014",
+    "end_month": "Jun 2015",
+    "job_title": "App developer",
+    "summary": "Designed, Developed and maintained travel planning related Android applications.",
+    "projects": [
+      {
+        "name": "Own-brand travel planning app"
+      },
+      {
+        "name": "統一渡假村App"
+      },
+      {
+        "name": "GO旅報"
+      }
+    ]
+  }
+]
